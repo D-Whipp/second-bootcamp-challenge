@@ -26,7 +26,7 @@ a {
 /* Utilities START */
 /* Utilities END */
 
-/* Header/Navigation Styling START */
+/* Header/Navigation START */
 header {
   background-color: var(--dark-color);
   display: flex;
@@ -38,6 +38,7 @@ header {
   color: var(--blue-color);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   padding: 20px;
+  z-index: 1000;
 }
 
 header h1 {
@@ -69,7 +70,7 @@ header nav ul li {
 header nav ul li a {
   color: var(--navbar-text-color);
 }
-/* Header/Navigation Styling END */
+/* Header/Navigation END */
 
 /* Hero Section START */
 .hero {
@@ -107,18 +108,58 @@ header nav ul li a {
 }
 /* Hero Section END */
 
-/* Topics Section START */
-.topics {
-  background-color: red;
-  border-right: 3px var(--blue-color) solid;
+/* Content Section Styling START */
+/* Sub-Content-Titles START */
+.content {
   display: flex;
+}
+
+.content .subcontent-titles {
   flex-direction: column;
   justify-content: space-evenly;
-  height: 100%;
-  width: 30%;
 }
-/* Topics Section END */
 
-/* Content Section Start */
-s
-/* Content Section Start */
+.content .subcontent-titles > div {
+  border-right: 3px var(--blue-color) solid;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 25px 25px;
+}
+/* Sub-Content-Titles END */
+
+/* Sub-Content-Info START */
+.content .subcontent-info > div {
+  margin: 10%;
+}
+
+.content .subcontent-info .work-info {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.content .subcontent-info .alpha-img {
+  border: 3px var(--blue-color) solid;
+  border-radius: 10px;
+  flex-basis: 80%;
+  height: 400px;
+  width: 400px;
+}
+
+.content .subcontent-info .sub-img {
+  height: 200px;
+  width: 400px;
+}
+/* Sub-Content-Info END */
+
+/* Content Section END */
+
+/* Footer START */
+footer {
+  background-color: var(--black-color);
+  bottom: 0;
+  color: var(--blue-color);
+  padding: 15px 0;
+  position: sticky;
+  text-align: center;
+  width: 100%;
+}

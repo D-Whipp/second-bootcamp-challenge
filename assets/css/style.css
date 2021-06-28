@@ -17,6 +17,8 @@
 
 body {
   background-color: var(--light-color);
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
 a {
@@ -24,6 +26,13 @@ a {
 }
 
 /* Utilities START */
+.width-s {
+  width: 20%;
+}
+
+.width-m {
+  width: 70%;
+}
 /* Utilities END */
 
 /* Header/Navigation START */
@@ -120,14 +129,19 @@ header nav ul li a {
 .article-card {
   display: flex;
   margin: 20px;
+  width: 100%;
 }
 
 .article-card h3 {
   border-right: 3px var(--blue-color) solid;
+  color: var(--blue-color);
+  font-size: 36px;
   padding-right: 20px;
   margin-right: 20px;
+  text-align: right;
 }
 
+/* About Me */
 .article-card .about-me-text {
   margin: 15px;
 }
@@ -135,6 +149,35 @@ header nav ul li a {
 .article-card .about-me-text .about-me-first-p {
   margin-bottom: 30px;
 }
+
+/* Work Images */
+.work-img-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.work-img-container .work-img img {
+  height: 200px;
+  width: 200px;
+}
+
+.first-img {
+  height: 400px;
+  width: 400px;
+}
+
+/* Contact Me */
+.contact-me {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-me p {
+  border-bottom: 3px var(--blue-color) solid;
+  height: 55px;
+  line-height: 75px;
+}
+
 /* Section: Body Content END */
 
 /* Footer START */
@@ -143,7 +186,6 @@ footer {
   bottom: 0;
   color: var(--blue-color);
   padding: 15px 0;
-  position: sticky;
   text-align: center;
   width: 100%;
 }

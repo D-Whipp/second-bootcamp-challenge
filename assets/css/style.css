@@ -108,50 +108,34 @@ header nav ul li a {
 }
 /* Hero Section END */
 
-/* Content Section Styling START */
-/* Sub-Content-Titles START */
-.content {
-  display: flex;
-}
-
-.content .subcontent-titles {
-  flex-direction: column;
-  justify-content: space-evenly;
-}
-
-.content .subcontent-titles > div {
-  border-right: 3px var(--blue-color) solid;
-  flex-direction: column;
-  justify-content: space-evenly;
-  margin: 25px 25px;
-}
-/* Sub-Content-Titles END */
-
-/* Sub-Content-Info START */
-.content .subcontent-info > div {
-  margin: 10%;
-}
-
-.content .subcontent-info .work-info {
+/* Section: Body Content START */
+.article-deck {
+  width: 100%;
+  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
 }
 
-.content .subcontent-info .alpha-img {
-  border: 3px var(--blue-color) solid;
-  border-radius: 10px;
-  flex-basis: 80%;
-  height: 400px;
-  width: 400px;
+.article-card {
+  display: flex;
+  margin: 20px;
 }
 
-.content .subcontent-info .sub-img {
-  height: 200px;
-  width: 400px;
+.article-card h3 {
+  border-right: 3px var(--blue-color) solid;
+  padding-right: 20px;
+  margin-right: 20px;
 }
-/* Sub-Content-Info END */
 
-/* Content Section END */
+.article-card .about-me-text {
+  margin: 15px;
+}
+
+.article-card .about-me-text .about-me-first-p {
+  margin-bottom: 30px;
+}
+/* Section: Body Content END */
 
 /* Footer START */
 footer {

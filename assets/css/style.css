@@ -38,6 +38,10 @@ a {
   height: 55px;
   line-height: 75px;
 }
+
+.block-line {
+  display: inline;
+}
 /* Utilities END */
 
 /* Header/Navigation START */
@@ -156,6 +160,10 @@ header nav ul li a {
 }
 
 /* Work Images */
+.work-img-container .work-img {
+  display: flex;
+}
+
 .work-img-container .work-img img {
   height: 200px;
   width: 200px;
@@ -164,7 +172,7 @@ header nav ul li a {
   border-radius: 15px;
 }
 
-.work-img-container .work-img:first-child img {
+.work-img-container .primary-img img {
   height: 600px;
   width: 600px;
   border: 3px var(--blue-color) solid;

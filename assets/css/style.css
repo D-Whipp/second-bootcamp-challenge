@@ -48,6 +48,11 @@ a {
   flex-wrap: wrap;
   width: 500px;
 }
+
+.no-text-dec {
+  color: var(--black-color);
+  text-decoration: none;
+}
 /* Utilities END */
 
 /* Header/Navigation START */
@@ -174,12 +179,27 @@ header nav ul li a {
   justify-content: space-evenly;
 }
 
+.work-img-container .work-img {
+  display: relative;
+}
+
 .work-img-container .work-img img {
   height: 200px;
   width: 200px;
   margin: 25px;
   border: 5px var(--blue-color) solid;
   border-radius: 15px;
+}
+
+.work-img-container h4 {
+  text-align: center;
+  background-color: var(--black-color);
+  border-radius: 5px;
+  color: var(--light-color);
+  font-size: 24px;
+  width: 100px;
+  position: absolute;
+  padding: 5px;
 }
 
 /* Contact Me */
@@ -209,4 +229,44 @@ footer {
   padding: 15px 0;
   text-align: center;
   width: 100%;
+}
+
+/* Media Queries */
+/* Media Query For Tablets And Smaller */
+@media screen and (max-width: 768px) {
+  header {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .hero .credits {
+    color: var(--blue-color);
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 5px 0 0 5px;
+    text-align: center;
+    width: 100%;
+    -webkit-text-stroke: 1px var(--white-color);
+  }
+  
+  .hero .credits a {
+    border-bottom: 1px var(--white-color) solid;
+    color: var(--blue-color);
+    text-decoration: none;
+  }
+
+  .hero h2 {
+    color: var(--blue-color);
+    display: inline-block;
+    font-size: 52px;
+    text-align: right;
+    width: 100%;
+    -webkit-text-stroke: 2px var(--white-color);
+  }
+
+  
 }

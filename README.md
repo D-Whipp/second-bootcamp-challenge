@@ -35,10 +35,3 @@ Credit to my amazing wife for creating my avatar!
 ## License
 
 You can view the license I chose [here](https://choosealicense.com/licenses/mit/)
-
-## Badges
-
-[![html build](https://img.shields.io/badge/html-horiseon-blue)](https://d-whipp.github.io/first-bootcamp-challenge/)
-[![css build](https://img.shields.io/badge/css-horiseon-orange?style=for-the-badge&logo=appveyor)](https://d-whipp.github.io/first-bootcamp-challenge/)
-[![git build](https://img.shields.io/badge/git-horiseon-brightgreen?style=plastic&logo=appveyor)](https://d-whipp.github.io/first-bootcamp-challenge/)
-[![git build](https://img.shields.io/badge/git-horiseon-brightgreen?style=plastic&logo=appveyor)](https://img.shields.io/badge/Wife-Made%20Avatar-brightgreen)

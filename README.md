@@ -35,3 +35,7 @@ Credit to my amazing wife for creating my avatar!
 ## License
 
 You can view the license I chose [here](https://choosealicense.com/licenses/mit/)
+
+## Badges
+
+[![html build](https://img.shields.io/badge/Wife-Made%20Avatar-brightgreen)](https://github.com/D-Whipp/second-bootcamp-challenge)

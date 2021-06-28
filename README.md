@@ -18,7 +18,7 @@ What makes this project stand out - This project stands out because it's my firs
 ALSO A BIG THANK YOU AND SHOUT OUT TO MY WIFE FOR MAKING ME A CUSTOM AVATAR!!!!!!!!!!!!!!!!
 
 If you want to view my Personal Portfolio follow this [link](https://d-whipp.github.io/second-bootcamp-challenge/)
-To view my Github Horiseon Repository click [here](https://github.com/D-Whipp/first-bootcamp-challenge.git)
+To view my Github Horiseon Repository click [here](https://github.com/D-Whipp/second-bootcamp-challenge)
 
 ## Installation
 
@@ -26,7 +26,7 @@ N/A
 
 ## Usage
 
-To view my Personal Portfolio go here: [by clicking here](https://github.com/D-Whipp/first-bootcamp-challenge.git) and click on the site's navigation or scroll through the content.
+To view my Personal Portfolio go here: [by clicking here](https://d-whipp.github.io/second-bootcamp-challenge/) and click on the site's navigation or scroll through the content.
 
 ## Credits
 

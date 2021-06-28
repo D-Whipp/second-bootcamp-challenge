@@ -1,4 +1,4 @@
-# HTML CSS Git Challenge: Code Refactor
+# Second Coding Bootcamp Challenge: Personal Portfolio
 
 ## Description
 

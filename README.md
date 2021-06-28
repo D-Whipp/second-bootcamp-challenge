@@ -26,7 +26,7 @@ N/A
 
 ## Usage
 
-To view my Personal Portfolio go here: [by clicking here](https://d-whipp.github.io/first-bootcamp-challenge/) and click on the site's navigation or scroll through the content.
+To view my Personal Portfolio go here: [by clicking here](https://github.com/D-Whipp/first-bootcamp-challenge.git) and click on the site's navigation or scroll through the content.
 
 ## Credits
 

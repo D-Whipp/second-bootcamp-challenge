@@ -17,7 +17,7 @@ What makes this project stand out - This project stands out because it's my firs
 
 ALSO A BIG THANK YOU AND SHOUT OUT TO MY WIFE FOR MAKING ME A CUSTOM AVATAR!!!!!!!!!!!!!!!!
 
-If you want to view my Horiseon site follow this [link](https://d-whipp.github.io/first-bootcamp-challenge/)
+If you want to view my Personal Portfolio follow this [link](https://d-whipp.github.io/second-bootcamp-challenge/)
 To view my Github Horiseon Repository click [here](https://github.com/D-Whipp/first-bootcamp-challenge.git)
 
 ## Installation
@@ -26,15 +26,13 @@ N/A
 
 ## Usage
 
-To use Horiseon simply go to the url [by clicking here](https://d-whipp.github.io/first-bootcamp-challenge/) and click on the site's navigation or scroll through the content.
+To view my Personal Portfolio go here: [by clicking here](https://d-whipp.github.io/first-bootcamp-challenge/) and click on the site's navigation or scroll through the content.
 
 ## Credits
 
-The Starter Code for this project was provided by Xandromus [which you can view by clicking here](https://github.com/coding-boot-camp/urban-octo-telegram)
+Credit to my amazing wife for creating my avatar!
 
 ## License
-
-Xandromus deleted his [license](https://github.com/coding-boot-camp/urban-octo-telegram/commit/e5845259f5ac0c59a56004cb0caf38b4a8d73424#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7)
 
 You can view the license I chose [here](https://choosealicense.com/licenses/mit/)
 
@@ -43,3 +41,4 @@ You can view the license I chose [here](https://choosealicense.com/licenses/mit/
 [![html build](https://img.shields.io/badge/html-horiseon-blue)](https://d-whipp.github.io/first-bootcamp-challenge/)
 [![css build](https://img.shields.io/badge/css-horiseon-orange?style=for-the-badge&logo=appveyor)](https://d-whipp.github.io/first-bootcamp-challenge/)
 [![git build](https://img.shields.io/badge/git-horiseon-brightgreen?style=plastic&logo=appveyor)](https://d-whipp.github.io/first-bootcamp-challenge/)
+[![git build](https://img.shields.io/badge/git-horiseon-brightgreen?style=plastic&logo=appveyor)](https://img.shields.io/badge/Wife-Made%20Avatar-brightgreen)

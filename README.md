@@ -1,5 +1,9 @@
 # Second Coding Bootcamp Challenge: Personal Portfolio
 
+##
+
+<img src="./assets/images/readmeScreenshot.png" />
+
 ## Description
 
 The What, Why, and How - Welcome to my personal portfolio! I had lots of fun created this website and though it needs improvements, I am very proud of what I've made. If you like the art my wife made it! Her artist skills continuously impress me.

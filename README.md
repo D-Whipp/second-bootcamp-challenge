@@ -30,7 +30,7 @@ N/A
 
 ## Usage
 
-To view my Personal Portfolio go here: [by clicking here](https://d-whipp.github.io/second-bootcamp-challenge/) and click on the site's navigation or scroll through the content.
+To view my Personal Portfolio click [here](https://d-whipp.github.io/second-bootcamp-challenge/) and click on the site's navigation or scroll through the content.
 
 ## Credits
 
@@ -38,8 +38,30 @@ Credit to my amazing wife for creating my avatar!
 
 ## License
 
-You can view the license I chose [here](https://choosealicense.com/licenses/mit/)
+MIT License
+
+Copyright (c) [2022] [David-Whipple]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Badges
 
-[![html build](https://img.shields.io/badge/Wife-Made%20Avatar-brightgreen)](https://github.com/D-Whipp/second-bootcamp-challenge)
+[![build stable](https://img.shields.io/badge/Build-Stable-limegreen)](https://github.com/D-Whipp/second-bootcamp-challenge)
+[![avatar](https://img.shields.io/badge/Wife-Made%20Avatar-brightgreen)](https://github.com/D-Whipp/second-bootcamp-challenge)
+[![license](https://img.shields.io/badge/license-MIT-critical)](https://github.com/D-Whipp/second-bootcamp-challenge)

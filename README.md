@@ -1,4 +1,4 @@
-# Second Coding Bootcamp Challenge: Personal Portfolio
+# Personal Portfolio
 ### Front End App
 
 ##
